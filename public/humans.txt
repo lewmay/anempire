@@ -1,0 +1,18 @@
+# humans.txt
+
+## Team
+anEmpire
+
+## Site
+Built with Next.js, TypeScript, Tailwind CSS
+Editorial design philosophy: two modes (Threshold, Artifact)
+Deployed on Netlify
+
+## Thanks
+To every owner who's asked better questions than we had answers for.
+
+---
+
+The site you're on was designed to collapse confusion, not add to it.
+
+If you're reading this, you already know whether it worked.

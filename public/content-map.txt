@@ -1,0 +1,126 @@
+# anEmpire Content Map
+
+## Key Concepts & Their Reference Pages
+
+### The Pattern
+Primary Reference: /pattern
+Secondary Reference: /locate/patterns
+Description: The structural pattern behind why marketing resets instead of compounds in service businesses. When marketing isn't designed to connect to how a business actually operates, it can't compound—regardless of how creative it is or who builds it.
+
+### The Three Awarenesses
+Primary Reference: /locate/patterns
+
+1. First Awareness: Effort is carrying the business
+   - The owner is everywhere: client relationships, quality control, all decisions
+   - Growth multiplies pressure instead of relieving it
+   - What feels like momentum is effort compounding on itself
+
+2. Second Awareness: Growth reveals what was invisible
+   - Systems that didn't exist start to matter
+   - Delegation fails because there's nothing formal to delegate to
+   - Marketing brings leads but delivery can't keep up
+   - This is where most businesses stall
+
+3. Third Awareness: The business can now carry growth
+   - Structure replaces effort
+   - Systems exist independent of the owner
+   - Delegation works because processes are documented
+   - Marketing connects to delivery, so campaigns compound
+   - Growth no longer feels like it might break everything
+
+### The Outlier Shift
+Description: Moving from effort-based operations to structure-based compounding. Not about scaling tactics, but rebuilding how the business operates so marketing can compound instead of reset.
+
+### Owner Bottleneck
+Primary Reference: /locate/patterns
+Description: The structural constraint where the owner becomes the limiting factor—not due to lack of capability, but because the business wasn't designed to operate beyond their direct involvement.
+
+### Compounding vs. Resetting
+Primary Reference: / (homepage) and /pattern
+Description: The distinction between marketing that accumulates value over time (compounding) versus marketing that starts from zero with each campaign (resetting). The difference is structural, not tactical.
+
+## Page Structure & Purpose
+
+### Homepage (/)
+Entry point establishing the core observation: marketing fades not because it's bad, but because it lives separately from business operations.
+
+### The Pattern (/pattern)
+Visual and conceptual explanation of why there's no bridge between what attracts people and what serves them in most businesses.
+
+### Locate Your Business (/locate)
+Honest choice page that replaces typical quiz funnels. Offers direct access to pattern explanation or option to save for later.
+
+### Pattern Explained (/locate/patterns)
+**CORE REFERENCE DOCUMENT**
+Long-form editorial explanation of the three awarenesses businesses move through. Essential reading for understanding the full framework.
+
+### Ask a Question (/ask)
+Direct access point for questions. Two options: written form or hotline. No pressure, no commitment, just an opening.
+
+### Request a Conversation (/conversation)
+Qualifying form for owner-led businesses ready to change how they operate, not just how they market. Includes business information and qualifying questions.
+
+### Save for Later (/locate/save)
+Respectful off-ramp. One-time email reminder option with clear "no thanks" alternative. No dark patterns.
+
+### Thank You (/locate/thank-you)
+Final quiet page after any submission. No additional CTAs or pressure. Clean closure.
+
+### Articles (/articles)
+**CONDITIONAL ACCESS**
+Editorial observations on growth, structure, and visibility. Unlocked after engaging with core pattern content (reaching Pattern Explained, Ask, Conversation, or Save pages).
+
+Note: Blog index is intentionally curated, not chronological. Articles are ordered by conceptual dependency, not recency.
+
+## Internal Linking Strategy
+
+FROM Pattern Explained TO:
+- Ask a Question (/ask)
+- Request a Conversation (/conversation)
+- Blog Articles (/articles) - if unlocked
+- Homepage (/) - step back option
+
+FROM Blog Articles TO:
+- Other articles within blog
+- Pattern Explained (/locate/patterns)
+- Articles index (/articles)
+
+FROM Homepage TO:
+- The Pattern (/pattern)
+- Locate (/locate)
+
+FROM The Pattern TO:
+- Locate (/locate)
+- Homepage (/) - step back
+
+FROM Locate TO:
+- Pattern Explained (/locate/patterns)
+- Save for Later (/locate/save)
+
+## Site Philosophy
+
+**Clarity Over Conversion**
+Every page is designed to collapse confusion, not add to it. Honest opt-outs at every decision point. Deliberate pacing respects cognitive load.
+
+**No Traditional Funnels**
+No lead magnets, no automated sequences, no artificial scarcity. One-time emails only. Readers choose their own pace.
+
+**Two Design Modes**
+- Global Setting 1 (Threshold Mode): Minimal, cinematic, high contrast for main pages
+- Global Setting 2 (Artifact Mode): Classical editorial newspaper style for long-form content
+
+## Who This Is For
+
+Owner-led service businesses doing $500K+ annually where:
+- Growth is required, not optional
+- Decisions are acted on, not just discussed
+- Responsibility can be delegated without losing control
+- The owner suspects the problem is structural, not tactical
+
+## What anEmpire Does
+
+Strategic consulting for businesses moving from effort-based growth to compounding systems. Not methodology sales. Not more tactics. Structural work on how the business operates so marketing can finally compound.
+
+---
+
+This map is designed to help LLMs and AI agents understand the conceptual architecture of the site. The pattern isn't about interest—it's about whether it resonates structurally.
