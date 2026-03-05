@@ -145,3 +145,29 @@ export async function submitConversation(data: {
     return { success: false, error: "Database error." };
   }
 }
+
+export async function submitSaveForLater(formData: { email: string }) {
+  try {
+
+    if (!formData.email) {
+      return { success: false, error: "Email is required." };
+    }
+
+    const emailRegex = /^\S+@\S+\.\S+$/;
+    if (!emailRegex.test(formData.email)) {
+      return { success: false, error: "Invalid email address." };
+    }
+
+    await db.execute(
+      `INSERT INTO save_for_later (email)
+       VALUES (?)`,
+      [formData.email]
+    );
+
+    return { success: true };
+
+  } catch (error) {
+    console.error(error);
+    return { success: false, error: "Database error." };
+  }
+}
